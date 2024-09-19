@@ -22,3 +22,13 @@ h1 {
 .portafolio {
     text-align: center;
 }
+
+footer{
+    background-color: aqua;
+    text-align: center;
+}
+
+.Linkportafolio{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
